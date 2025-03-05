@@ -13,12 +13,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
-Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
-bash
-Kopyala
-Düzenle
-pip install pandas numpy matplotlib scikit-learn
 Veri Seti
 Projede kullanılan veri seti, daha öncede kullanmış olduğum kanserli (Malignant) ve kanserli olmayan (Benign) hücreler arasındaki farkları içeren bir dosya olan data.csv'yi kullanmaktadır. Veri setinde, hücre özellikleri ve etiketler bulunmaktadır. Etiketler, hücrenin kanserli olup olmadığını gösterir. Veri setini ekte paylaşmış olacağım.
 
